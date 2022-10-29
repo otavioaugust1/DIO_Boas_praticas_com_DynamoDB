@@ -7,6 +7,10 @@ Repositório do bootcamp Unimed-BH Ciência de Dados sobre o Amazon DynamoDB
   - Amazon DynamoDB
   - Amazon CLI para execução em linha de comando
 
+### Arquitetura
+<img src='img\arquitetura.PNG'>
+
+
 ### Comandos para execução do experimento:
 
 
